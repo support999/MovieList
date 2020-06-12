@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.2.1)
+  - KDCircularProgress (1.5.4)
+  - MBProgressHUD (1.2.0)
+  - SDWebImage (5.8.0):
+    - SDWebImage/Core (= 5.8.0)
+  - SDWebImage/Core (5.8.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2.1)
+  - KDCircularProgress
+  - MBProgressHUD (~> 1.2.0)
+  - SDWebImage (~> 5.8.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - KDCircularProgress
+    - MBProgressHUD
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  KDCircularProgress: 98200c6b8e85d22bc04eb644721d3b1e12b0686b
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+
+PODFILE CHECKSUM: e949b6b9c81a6bdabfa9a2ebc125362794624e9c
+
+COCOAPODS: 1.8.4
